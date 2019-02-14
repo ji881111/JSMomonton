@@ -80,12 +80,12 @@ input::placeholder {
   color: white;
 }
 
-.js-form input {
+.name-form input {
   font-size: 35px;
   margin-bottom: 35px;
 }
 
-.js-greetings {
+.hello {
   font-size: 38px;
   margin-bottom: 20px;
 }
@@ -103,4 +103,12 @@ ul {
 .delBtn {
   margin-right: 10px;
   cursor: pointer;
+}
+
+.weather {
+  position: absolute;
+  font-style: italic;
+  font-size: 18px;
+  top: 30px;
+  right: 30px;
 }
